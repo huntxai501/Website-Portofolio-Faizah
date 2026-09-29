@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Portofolio - Faizah Nadia Keysha</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Portofolio Multimedia Saya</h1>
+      <img src="https://uploads.onecompiler.io/454nnjbwb/454nnhtfk/FOTO%20KTP%20IJEM.jpeg" alt="Foto Profil" width="200">
+      <br>
+      <h2>Data Diri</h2>
+      <p1>Nama: Faizah Nadia keysha</p1>
+      <br>
+      NIM:259034600014
+      <br>
+      Program Studi: Teknologi Rekayasa Multimedia
+      <br>
+      Semester: 3
+      <br>
+      Email:faizahnadia1003@gmail.com
+      <h2>Tentang Saya</h2>
+      <p1>Saya adalah seorang mahasiswa program studi Teknologi Rekayasa Multimedia yang memiliki ketertarikan tinggi pada dunia seni digital, pengembangan visual, dan karya interaktif. Saya ***** mengeksplorasi berbagai bentuk media untuk menyampaikan ide dan cerita secara kreatif.</p1>
+      <p>Minat Multimedia</p>
+      <ul>
+        <li>Animasi</li>
+        <li>Desain Grafis</li>
+        <li>Game</li>
+        <li>UI/UX</li>
+      </ul>
+    <h2>Softeware yang dikuasai</h2>
+      <ol>
+        <li>Ibis Paint</li>
+        <li>After Effect</li>
+        <li>Figma</li>
+        <li>Abode Illustrator</li>
+      </ol>
+   
+    <h2>Karya Multimedia</h2>
+      <img src="https://uploads.onecompiler.io/454nnjbwb/454nnhtfk/WhatsApp%20Image%202026-06-02%20at%2016.01.27.jpeg" alt="porto1" width="200">
+      <img src="https://uploads.onecompiler.io/454nnjbwb/454nnhtfk/WhatsApp%20Image%202026-06-13%20at%2023.14.30.jpeg" alt="porto2" width="200">
+    
+    <h2>Riwayat Pendidikan</h2>
+      <table border="1">
+
+	  <tr>
+      <th>No</th>
+      <th>Jenjang</th>
+      <th>Nama Sekolah</th>
+      <th>Tahun</th>
+	</tr>
+	
+    <tr>
+      <td>1</td>
+      <td>SD</td>
+      <td>MI Assadaatuddarain 1 Pamulang</td>
+      <td>2019</td>
+    </tr>
+    
+    <tr>
+      <td>2</td>
+      <td>SMP/SMA</td>
+      <td>Al-Amanah Al-Gontory</td>
+      <td>2025</td>
+    </tr>
+
+    <tr>
+      <td>3</td>
+      <td>Kampus</td>
+      <td>Boash University</td>
+      <td>Sekarang</td>
+  </tr>
+  </table>
+  
+    <p>Link Portofolio</p>
+    <a href="https://www.instagram.com/huntxai_/" target="_blank"> Instagram </a>
+    <br>
+    <a href="https://github.com/huntxai501" target="_blank"> Github </a>
+     <br>
+    <a href="https://vgen.co/IsaL" target="_blank"> Vgen </a>
+
+  <p>Cita-cita saya di industri multimedia adalah menjadi seorang Creative Director dan Visual Artist profesional yang mampu menciptakan karya-karya digital inovatif, mulai dari desain karakter, motion graphics, hingga visual interaktif yang inspiratif dan memberikan dampak positif bagi audiens luas.</p>
+  </body>
+</html>
